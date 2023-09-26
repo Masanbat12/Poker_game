@@ -10,6 +10,23 @@ Final Hand: After making decisions on each card, the user receives the final han
 
 Hand Evaluation: The program then evaluates and displays the value of the hand to the user.
 
+## Compilation
+To compile the poker game:
+
+Navigate to the project directory in your terminal.
+
+Run the command: make
+
+This will generate an executable named poker.
+
+### Running the Game
+After successful compilation, you can run the game with the following command:
+./poker
+### Cleaning up
+If you want to clean up the compiled files (e.g., before pushing to a version control system), you can use the following command:
+make clean
+This will remove the generated poker executable and any object files.
+
 ## The Code Structure
 getFirstHand(): Deals the first five cards to the user.
 
