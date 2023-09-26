@@ -53,5 +53,8 @@ Standard C libraries.
 A C compiler, e.g., GCC or Clang.
 
 #### Contribution
-If you would like to contribute to this project or spot any bugs, please submit a pull request or open an issue. Feedback and suggestions are welcome.
+If you would like to contribute to this project or spot any bugs, please submit a pull request or open an issue.
+Feedback and suggestions are welcome.
+
+<img width="459" alt="image" src="https://github.com/Masanbat12/Poker_game/assets/93978448/4d0ef22b-9060-479a-9b7d-c18dbb91c3a5">
 
